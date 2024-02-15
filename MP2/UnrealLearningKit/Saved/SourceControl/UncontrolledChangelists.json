@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Maps/MP2Level.umap",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Materials/M_Moon.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Textures/T_Moon.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/GameModes/GM_MP2GameMode.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/GameModes/GM_MP2.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Blueprints/BP_DeathPlane.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Blueprints/BP_PlayerCharacter.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Blueprints/Widgets/WBP_Healthbar.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Blueprints/Widgets/WBP_GameOver.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Blueprints/BP_CustomSky.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Materials/M_Custom_Sky_Panning_Clouds2.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Textures/T_Custom_Sky_Blue.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Textures/T_Custom_Sky_Clouds_M.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Textures/T_Custom_Sky_Stars.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Blueprints/Widgets/WBP_Score.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Blueprints/BP_Coin.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/LearningKit_Games/Assets/Environment/Foliage/SM_Flower_Daisy_01.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Blueprints/BP_Healthpack.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Blueprints/BP_ReturnToStart.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Blueprints/BP_SpeedIncrease.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Blueprints/BP_Launch.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Controllers/CTR_DelayedPlayerController.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Controllers/CTR_PursuerAI.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Blueprints/Collectibles/BP_Coin.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Blueprints/Collectibles/BP_Healthpack.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Blueprints/Collectibles/BP_Launch.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Blueprints/Collectibles/BP_ReturnToStart.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Blueprints/Collectibles/BP_SpeedIncrease.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Blueprints/BP_Pursuer.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Blueprints/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Textures/T_Sky_Stars.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Textures/T_Sky_Clouds_M.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/Textures/T_Sky_Blue.uasset",
+				"/Users/benjaminhavens/Documents/school/game_development_cs_415/MP2/UnrealLearningKit/Content/MP2Level.umap"
+			]
+		}
+	]
+}
